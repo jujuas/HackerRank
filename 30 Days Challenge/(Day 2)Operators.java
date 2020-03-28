@@ -1,8 +1,3 @@
-/*TASK
-/*Print the total meal cost, where  is the rounded integer result of 
-*the entire bill ( with added tax and tip). */
-
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
